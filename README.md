@@ -1,4 +1,4 @@
-### Hi, Dev. I'm ovictorjo 👨‍💻
+### Hi, dev. I'm ovictorjo 👨‍💻
 
 
 <p>
