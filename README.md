@@ -2,7 +2,7 @@
 
 
 <p>
-  <a href="http://instagram.com/ovictorjo">
+  <a href="http://instagram.com/ovictorjo/">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
   
